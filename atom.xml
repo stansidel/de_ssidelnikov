@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ssidelnikov.github.io/de_ssidelnikov/atom.xml" rel="self"/>
-  <link href="http://ssidelnikov.github.io/de_ssidelnikov/"/>
-  <updated>2013-06-24T12:22:21+06:00</updated>
-  <id>http://ssidelnikov.github.io/de_ssidelnikov/</id>
+  <link href="http://ssidelnikov.github.io/atom.xml" rel="self"/>
+  <link href="http://ssidelnikov.github.io/"/>
+  <updated>2013-06-24T12:51:29+06:00</updated>
+  <id>http://ssidelnikov.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hallo]]></title>
-    <link href="http://ssidelnikov.github.io/de_ssidelnikov/blog/2013/06/24/hallo/"/>
+    <link href="http://ssidelnikov.github.io/blog/2013/06/24/hallo/"/>
     <updated>2013-06-24T12:15:00+06:00</updated>
-    <id>http://ssidelnikov.github.io/de_ssidelnikov/blog/2013/06/24/hallo</id>
+    <id>http://ssidelnikov.github.io/blog/2013/06/24/hallo</id>
     <content type="html"><![CDATA[<p>Hallo</p>
 ]]></content>
   </entry>
