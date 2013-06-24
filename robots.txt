@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ssidelnikov.github.io/de_ssidelnikov/sitemap.xml 
